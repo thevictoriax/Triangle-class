@@ -1,0 +1,15 @@
+C:\Users\vitam\source\repos\training\training\bin\Debug\net6.0\training.exe
+C:\Users\vitam\source\repos\training\training\bin\Debug\net6.0\training.deps.json
+C:\Users\vitam\source\repos\training\training\bin\Debug\net6.0\training.runtimeconfig.json
+C:\Users\vitam\source\repos\training\training\bin\Debug\net6.0\training.dll
+C:\Users\vitam\source\repos\training\training\bin\Debug\net6.0\training.pdb
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.csproj.AssemblyReference.cache
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.AssemblyInfoInputs.cache
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.AssemblyInfo.cs
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.csproj.CoreCompileInputs.cache
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.dll
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\refint\training.dll
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.pdb
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\training.genruntimeconfig.cache
+C:\Users\vitam\source\repos\training\training\obj\Debug\net6.0\ref\training.dll
